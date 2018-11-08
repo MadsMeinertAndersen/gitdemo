@@ -11,3 +11,4 @@ Koglen
 PK 22 x 2
 PH 54 bord
 PK 32 x 8
+Bananer
